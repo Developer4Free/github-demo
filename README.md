@@ -1,2 +1,7 @@
-# github-demo
-A basic git repository.
+# Starwar
+A basic git repository with react starwar.
+
+
+npm install
+
+npm start
